@@ -7,7 +7,7 @@ Aplicar los conocimientos adquiridos en el curso de C++.
 Utilizar componentes como vectores, ciclos, archivos y punteros en la programación.
 Desarrollar una aplicación gráfica con características únicas.
 
-# Requisitos:
+### Requisitos:
 - Tener conocimientos básicos de programación en C++.
 - Estar familiarizado con el IDE CodeBlocks.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++
