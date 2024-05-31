@@ -7,11 +7,11 @@ Este programa permite dibujar diversas formas geométricas en una consola de tex
 
 ### Uso del Programa
 
-#### Navegación
+### Navegación
 - Mover el cursor: Utilice las teclas de flecha para mover el cursor en la pantalla.
 - Seleccionar opciones: Presione la tecla correspondiente a la opción deseada según el menú mostrado.
 
-#### Opciones del Menú Principal
+### Opciones del Menú Principal
 
 Dibujar Triángulo (F1):
 
