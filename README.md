@@ -11,3 +11,9 @@ Desarrollar una aplicación gráfica con características únicas.
 - Tener conocimientos básicos de programación en C++.
 - Estar familiarizado con el IDE CodeBlocks.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++
+
+### Recursos
+- https://www.codeblocks.org/downloads/
+- http://cppreference.com/
+- https://www.w3schools.com/cpp/
+
