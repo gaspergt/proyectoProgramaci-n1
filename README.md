@@ -16,4 +16,5 @@ Desarrollar una aplicación gráfica con características únicas.
 - https://www.codeblocks.org/downloads/
 - http://cppreference.com/
 - https://www.w3schools.com/cpp/
+- This site was built using [GitHub Pages](https://pages.github.com/).
 
