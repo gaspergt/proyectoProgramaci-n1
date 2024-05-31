@@ -1,1 +1,2 @@
-# proyectoProgramaci-n1
+> [!WARNING]
+> Critical content comes here.
