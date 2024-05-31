@@ -68,9 +68,6 @@ El bucle principal del programa permite al usuario mover el cursor con las tecla
 - `F12`: Guarda la pantalla en un archivo.
 - `Ctrl + A`: Abre un archivo y muestra su contenido en la pantalla.
 
-## Ejecución
-Para compilar y ejecutar el programa, utiliza un compilador compatible con C++ en Windows, ya que el programa depende de la biblioteca `windows.h`. 
-
-```sh
-g++ -o dibujar dibujar.cpp -static-libgcc -static-libstdc++
-./dibujar
+## Notas
+- El programa está diseñado para funcionar en un entorno de consola de Windows.
+- Asegúrate de tener permisos adecuados para crear y leer archivos en el directorio desde el cual se ejecuta el programa.
