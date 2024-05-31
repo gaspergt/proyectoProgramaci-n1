@@ -13,7 +13,7 @@ Desarrollar una aplicación gráfica con características únicas.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++.
 
 > [!TIP]
-> Encuentre la documentación sobre la gúía de usuario en [Manual de usuario](documentacion/ManualUsuario.md)
+> Encuentre la documentación sobre la gúía de usuario en [Manual de usuario](documentacion/ManualUsuario.md)  
 > La documentación tecnica sobre este proyecto la puede encontrar en [Manual tecnico](documentacion/ManualTecnico.md)
 
 > [!IMPORTANT]
