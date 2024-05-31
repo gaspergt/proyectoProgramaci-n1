@@ -14,8 +14,8 @@ Este programa permite dibujar diversas formas geométricas en una consola de tex
 #### Opciones del Menú Principal
 <ol>
 <li>Dibujar Triángulo (F1)</li>
-- Presione F1.
-- Ingrese el tamaño de la base del triángulo cuando se le solicite.
+  - Presione F1.
+  - Ingrese el tamaño de la base del triángulo cuando se le solicite.
   
 <li>Dibujar Cuadrado (F2)</li>
 - Presione F2.
