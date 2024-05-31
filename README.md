@@ -13,7 +13,7 @@ Desarrollar una aplicación gráfica con características únicas.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++.
 
 > [!TIP]
-> This is a tip. (Supported since 14 Nov 2023)
+> Encuentre la documentación sobre la gúía de usuario en [Manual de usuario](documentacion/ManualUsuario.md)
 
 > [!IMPORTANT]
 > - La información sobre el desarrollo de la interfaz gráfica y las funciones de dibujo se encuentra en la rama ***Fase1***.
