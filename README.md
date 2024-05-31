@@ -13,8 +13,9 @@ Desarrollar una aplicación gráfica con características únicas.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++
 
 ### Recursos
-- https://www.codeblocks.org/downloads/
-- http://cppreference.com/
-- https://www.w3schools.com/cpp/
-- This site was built using [GitHub Pages](https://pages.github.com/).
+- Obtener [CodeBlocks] (https://www.codeblocks.org/downloads/)
+- Referencias [C++] (http://cppreference.com/)
+- Aprender [C++] (https://www.w3schools.com/cpp/)
+
+
 
