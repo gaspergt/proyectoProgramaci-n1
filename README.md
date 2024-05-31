@@ -14,6 +14,7 @@ Desarrollar una aplicación gráfica con características únicas.
 
 > [!TIP]
 > Encuentre la documentación sobre la gúía de usuario en [Manual de usuario](documentacion/ManualUsuario.md)
+> La documentación tecnica sobre este proyecto la puede encontrar en [Manual tecnico](documentacion/ManualTecnico.md)
 
 > [!IMPORTANT]
 > - La información sobre el desarrollo de la interfaz gráfica y las funciones de dibujo se encuentra en la rama ***Fase1***.
