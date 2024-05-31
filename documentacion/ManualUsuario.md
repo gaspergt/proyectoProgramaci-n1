@@ -79,13 +79,15 @@ Grabar Pantalla (F12):
 
     Presione F12.
     Ingrese el nombre del archivo para guardar la pantalla actual cuando se le solicite. 
-****debe añadir el formato .txt**
+> [!CAUTION]
+> Dedebe indicar el nombre del archivo con extención txt.
 
 Abrir Archivo y Mostrar en Pantalla (Ctrl + A):
 
     Presione Ctrl + A.
     Ingrese el nombre del archivo para abrir y mostrar en la pantalla cuando se le solicite. 
-****debe añadir el formato .txt**
+> [!CAUTION]
+> Dedebe indicar el nombre del archivo con extención txt.
 
 ## Finalización del Programa
 Para salir del programa, seleccione "N" cuando se le pregunte si desea dibujar otra forma.
