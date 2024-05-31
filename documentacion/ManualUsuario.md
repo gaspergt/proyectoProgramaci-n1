@@ -78,13 +78,14 @@ Cambiar Color del Carácter (F10):
 Grabar Pantalla (F12):
 
     Presione F12.
-    Ingrese el nombre del archivo para guardar la pantalla actual cuando se le solicite. ****debe añadir el formato .txt**
+    Ingrese el nombre del archivo para guardar la pantalla actual cuando se le solicite. 
+****debe añadir el formato .txt**
 
 Abrir Archivo y Mostrar en Pantalla (Ctrl + A):
 
     Presione Ctrl + A.
-    Ingrese el nombre del archivo para abrir y mostrar en la pantalla cuando se le solicite. ****debe añadir el formato .txt**
-
+    Ingrese el nombre del archivo para abrir y mostrar en la pantalla cuando se le solicite. 
+****debe añadir el formato .txt**
 
 ## Finalización del Programa
 Para salir del programa, seleccione "N" cuando se le pregunte si desea dibujar otra forma.
