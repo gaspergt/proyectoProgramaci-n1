@@ -12,10 +12,8 @@ Desarrollar una aplicación gráfica con características únicas.
 - Estar familiarizado con el IDE CodeBlocks.
 - Contar con los conocimientos necesarios sobre vectores, ciclos, archivos y punteros en C++.
 
-### Recursos
-- Obtener [CodeBlocks](https://www.codeblocks.org/downloads/).
-- Referencias [C++](http://cppreference.com/).
-- Aprender [C++](https://www.w3schools.com/cpp/).
+> [!TIP]
+> This is a tip. (Supported since 14 Nov 2023)
 
 > [!IMPORTANT]
 > - La información sobre el desarrollo de la interfaz gráfica y las funciones de dibujo se encuentra en la rama ***Fase1***.
