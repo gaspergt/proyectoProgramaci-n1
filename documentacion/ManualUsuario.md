@@ -84,3 +84,15 @@ Abrir Archivo y Mostrar en Pantalla (Ctrl + A):
 
     Presione Ctrl + A.
     Ingrese el nombre del archivo para abrir y mostrar en la pantalla cuando se le solicite.
+
+
+## Finalización del Programa
+Para salir del programa, seleccione "N" cuando se le pregunte si desea dibujar otra forma.
+
+# Notas Adicionales
+### Pantalla de Dibujo:
+- La pantalla de dibujo tiene un tamaño de 85 columnas de ancho y 25 filas de alto.
+- Las formas se dibujan dentro de un borde predeterminado.
+### Ajuste Automático de Coordenadas:
+- Las coordenadas de las formas se ajustan automáticamente para permanecer dentro de los límites de la pantalla.
+
