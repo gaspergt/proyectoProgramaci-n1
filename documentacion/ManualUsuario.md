@@ -12,14 +12,13 @@ Este programa permite dibujar diversas formas geométricas en una consola de tex
 - Seleccionar opciones: Presione la tecla correspondiente a la opción deseada según el menú mostrado.
 
 #### Opciones del Menú Principal
-<ol>
-<li>Dibujar Triángulo (F1)</li>
+
+1. Dibujar Triángulo (F1)
   - Presione F1.
   - Ingrese el tamaño de la base del triángulo cuando se le solicite.
   
-<li>Dibujar Cuadrado (F2)</li>
-- Presione F2.
-- Ingrese el tamaño de un lado del cuadrado cuando se le solicite.
-  
-<li>Parish</li>
-</ol>
+2. Dibujar Cuadrado (F2)
+  - Presione F2.
+  - Ingrese el tamaño de un lado del cuadrado cuando se le solicite.
+
+3. 
