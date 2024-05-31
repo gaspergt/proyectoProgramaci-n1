@@ -13,33 +13,39 @@ Este programa permite dibujar diversas formas geométricas en una consola de tex
 
 #### Opciones del Menú Principal
 
-1. Dibujar Triángulo (F1)
-    - Presione F1.
-    - Ingrese el tamaño de la base del triángulo cuando se le solicite.
-  
-2. Dibujar Cuadrado (F2)
-    - Presione F2.
-    - Ingrese el tamaño de un lado del cuadrado cuando se le solicite.
+Dibujar Triángulo (F1):
 
-3. Dibujar Rectángulo (F3)
-    - Presione F3.
-    - Ingrese el ancho y el alto del rectángulo cuando se le solicite.
-  
-4. Dibujar Círculo (F4)
-    - Presione F4.
-    - Ingrese el radio del círculo cuando se le solicite.
+    Presione F1.
+    Ingrese el tamaño de la base del triángulo cuando se le solicite.
 
-5. Dibujar Línea (F5)
-    - Presione F5.
-    - Ingrese la longitud de la línea y la orientación:
+Dibujar Cuadrado (F2):
+
+    Presione F2.
+    Ingrese el tamaño de un lado del cuadrado cuando se le solicite.
+
+Dibujar Rectángulo (F3):
+
+    Presione F3.
+    Ingrese el ancho y el alto del rectángulo cuando se le solicite.
+
+Dibujar Círculo (F4):
+
+    Presione F4.
+    Ingrese el radio del círculo cuando se le solicite.
+
+Dibujar Línea (F5):
+
+    Presione F5.
+    Ingrese la longitud de la línea y la orientación:
         1: Arriba
         2: Abajo
         3: Derecha
         4: Izquierda
 
-6. Dibujar Rombo (F6)
-   - Presione F6.
-   - Ingrese el tamaño de un lado del rombo y la orientación:
+Dibujar Rombo (F6):
+
+    Presione F6.
+    Ingrese el tamaño de un lado del rombo y la orientación:
         0: Abajo
         1: Arriba
 
