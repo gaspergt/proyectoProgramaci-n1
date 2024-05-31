@@ -17,6 +17,6 @@ Desarrollar una aplicación gráfica con características únicas.
 - Referencias [C++](http://cppreference.com/).
 - Aprender [C++](https://www.w3schools.com/cpp/).
 
-## [!Nota]
+[!Note]
 - La información sobre el desarrollo de la interfaz gráfica y las funciones de dibujo se encuentra en la rama ***Fase1***.
-La información sobre el manejo de archivos y la integración de componentes se encuentra en la rama ***Fase2***.
+- La información sobre el manejo de archivos y la integración de componentes se encuentra en la rama ***Fase2***.
